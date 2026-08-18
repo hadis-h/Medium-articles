@@ -22,4 +22,4 @@ python train_bpe_tokenizer.py
 ```
 ## Related article
 
-[Byte Pair Encoding](https://medium.com/ai-in-plain-english/byte-pair-encoding-bpe-tokenization)
+[Byte Pair Encoding](https://medium.com/ai-in-plain-english/byte-pair-encoding-bpe-tokenization-38da52c0e0d9)
